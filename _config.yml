@@ -673,7 +673,6 @@ Delhi NCR <br>
 <script type="text/rocketscript">
 $(function(){
     $('#news-container').vTicker({ 
-        speed: 500,
         pause: 8000,
         animation: 'fade',
         mousePause: false,
