@@ -47,28 +47,7 @@
 <header>
 <div class="container">
 <div class="intro-text">
-<div class="col-md-6" style="padding: 0px">
-<div class="youtube_img">
-<a class="fancybox-media" href="http://www.youtube.com/embed/tejloan.com"><img src="img/maisa_v2.jpg" width="480" alt="Youtube">
-</a>
-</div>
-</div>
-<div class="col-md-6" style="padding: 0px">
-<div class="textbox">
-<h1 class="we_build">WE DON'T<br>
-JUST BUILD PRODUCTS,<br>
-WE BUILD BUSINESSES!</h1>
-<p style="font-size: 18px;" class="padding_top">We are financial planners help build awesome things for the home and business. Let us build your awesome home and business...</p>
-<div class="button margin_top btn-danger"> <a href="/contact.html">Get In Touch</a> </div>
-<div class="dev_maisa"> <img src="/img/apple_dev1.png" width="100" alt="Mobile"> </div>
-</div>
-</div>
-<div class="we_off">
-<h3>We offer solutions. We offer excellence. We offer commitment.</h3>
-</div>
-</div>
-</div>
- 
+
  
 </header>
 <div class="container">
