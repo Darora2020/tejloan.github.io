@@ -671,14 +671,7 @@ Delhi NCR <br>
 <p class="contact_address">&nbsp;</p>
 </div>
 <script type="text/rocketscript">
-$(function(){
-    $('#news-container').vTicker({ 
-        pause: 8000,
-        animation: 'fade',
-        mousePause: false,
-        showItems: 1
-    });
-});
+
 
 </script>
 <div class="container-fluid" style="display:none;">
