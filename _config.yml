@@ -1,36 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Tej Loan | Financial Planning & Loan Consulting Services</title>
-<meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 user-scalable=0">
-<meta name="description" content="To facilitate the acquisition of a loan or loans by collecting information from both the client and the business that the client wants to purchase so that an informed decision can be made regarding the quality of the loan and the likelihood of repaying the loan. Many persons find that a loan is the only way that they can afford a car, house, college education, etc. Similarly, loans are usually essential to start a business in addition to purchasing inventory and/or invest in the necessary equipment. TejLoan agent will search for and locate lenders and help clients in completing the loan application process.">
-<meta name="keywords" content="a Comprehensive Working Capital Limit, LAP - Loan Against Property, Home Loan, Take Over Plus Enhancement, Top-up your Existing Loan, Car Loan, Business Loan and Investment Planning support solutions that meet your personal and business needs">
-<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2"/>
-<meta name="author" content="tejloan.com"/>
-<meta name="robots" content="index, follow"/>
-<meta name="revisit-after" content="7 days">
-<meta name="language" content="english"/>
-<script type="text/javascript">
-//<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"6967af7cffaa0ef0acfd9a2a7316b143",petok:"db15708d2fc33c7972486c73ada564d26cbc0fc8-1439627270-1800",betok:"e13555ec5ea5db9e7745f89661f566190e5fead9-1439627270-120",zone:"tejloan.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js"><'+'\/script>');}}catch(e){};
-//]]>
-</script>
-<link rel="publisher" href="https://plus.google.com/+Tejloan">
-<meta http-equiv="Cache-control" content="public">
-<meta http-equiv="Cache-control" content="max-age=31536000">
-<script type="application/ld+json">
-    { "@context" : "http://schema.org", "@type" : "SoftwareApplication", "name" : "Tej Loan is your ideal financial partner offering various type of loans inclusing Home Loan, Loan Against Property, Top-up existing Loan, Business Loan. We are educators and problem solvers. Our highly skilled & motivated team offers one-of-a-kind global financial planner services. Let us help you create next big thing...", "image" : "http://www.tejloan.com/img/maisa_icon.jpg", "url" : "http://www.tejloan.com/index.html", "author"
-    : { "@type" : "Person", "name" : "Tej Loan" } }
-  </script>
-<link rel="canonical" href="http://www.tejloan.com//">
-<link rel="shortcut icon" href="/img/fav.ico" type="image/x-icon"/>
- 
-<link rel="stylesheet" href="/style.css">
-<script data-rocketsrc="/js/jquery-1.11.0.js" type="text/rocketscript"></script>
-</head>
 <body id="page-top" class="index">
  
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -140,13 +107,13 @@ WE BUILD BUSINESSES!</h1>
 </div>
 <div class="wrap padding_top justifiedTxt">
 <table>
-<tr>
+<tbody><tr>
 <td>
 <p><a class="aHoverEffect" href="#services">LIC Housing Finance</a> | <a class="aHoverEffect" href="#services">DHFL</a> | <a class="aHoverEffect" href="#services">ICICI</a> | <a class="aHoverEffect" href="#services">PNBHFL</a> | <a class="aHoverEffect" href="#services">Axis Bank</a> | <a class="aHoverEffect" href="#services">Nationalized Banks </a> | <a class="aHoverEffect" href="#services">HDFC</a> | <a class="aHoverEffect" href="#services">IndiaBulls</a> | <a class="aHoverEffect" href="#services">Cholamandalam</a> | <a class="aHoverEffect" href="#services">Citi Financials</a> | <a class="aHoverEffect" href="#services">Adelwise </a> | <a class="aHoverEffect" href="#services">24/7 Support. </a>
 </p>
 </td>
 </tr>
-</table>
+</tbody></table>
 <p> <b>Tej Loan</b> is your ideal Financial planner and Loan Consultant offering various Comprehensive Working Capital Limit, LAP - Loan Against Property, Home Loan, Take Over Plus Enhancement, Top-up your Existing Loan, High End Car Loan, Business Loan and Investment Planning support solutions that meet your personal and business needs. Let us help you create next big thing... </p>
 <div class="col-md-12 mobile_view_hi5" style="display:none;">
 <div class="col-md-3 text-center" style="margin-bottom:1em;">
@@ -175,7 +142,7 @@ WE BUILD BUSINESSES!</h1>
 <div class="row text-center">
 <div class="col-md-4">
 <div class="hexagon-shape">
-<img src="/img/services/web-dev-icon.png" class="services-icons" width="80" height="80" alt=""/>
+<img src="/img/services/web-dev-icon.png" class="services-icons" width="80" height="80" alt="">
 <div class="hexagon-text">Web Development</div>
 </div>
 <div class="clearfix"></div>
@@ -186,7 +153,7 @@ The future of Semantic Web mostly focuses on this technology going mainstream. W
 </div>
 <div class="col-md-4">
 <div class="hexagon-shape">
-<img src="/img/services/mobile-dev-icon.png" class="services-icons" width="90" height="90" alt=""/>
+<img src="/img/services/mobile-dev-icon.png" class="services-icons" width="90" height="90" alt="">
 <div class="hexagon-text">Mobile
 Development</div>
 </div>
@@ -197,7 +164,7 @@ Mobile Application Development is a growing business. Since its inception, mobil
 </div>
 <div class="col-md-4">
 <div class="hexagon-shape">
-<img src="/img/services/cloud-computing-icon.png" style="margin-top:75px; margin-bottom:16px;" width="100" height="69" alt=""/>
+<img src="/img/services/cloud-computing-icon.png" style="margin-top:75px; margin-bottom:16px;" width="100" height="69" alt="">
 <div class="hexagon-text">Cloud Computing</div>
 </div>
 <div class="clearfix"></div>
@@ -237,7 +204,7 @@ A group of light-weight development methodologies, Agile favors "individuals and
 <div class="col-md-5">
 <div class="col-md-2"></div>
 <table style="">
-<tr>
+<tbody><tr>
 <td id="howwedoittable">
 <ul style="font-size:18px">
 <li style="list-style-image: url(/img/accepted.png);">Sprints</li>
@@ -250,7 +217,7 @@ A group of light-weight development methodologies, Agile favors "individuals and
 </ul>
 </td>
 </tr>
-</table>
+</tbody></table>
 </div>
 <div class="col-md-1"></div>
 <div class="col-md-6">
@@ -661,39 +628,18 @@ A group of light-weight development methodologies, Agile favors "individuals and
 <div class="row">
 <div class="col-sm-6">
 <div class="team-member">
-<img src="/img/team/1.jpg" class="img-responsive img-circle" alt="">
-<h4>Pradeep Benjaram</h4>
-<p class="text-muted">Founder & M.D.</p>
-<p class="text-muted justifiedTxt">Pradeep, with over 15years of experience in delivering high quality output across different business sectors</p>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="team-member">
-<img src="/img/team/2.jpg" class="img-responsive img-circle" alt="">
-<h4>Niveditha Reddy</h4>
-<p class="text-muted">Director of Human Resources</p>
-<p class="text-muted justifiedTxt">Nivi, with over 10years of problem solving experience, plays a key role to the company for both internal & external communication. Extremely detailed and ability to bridge gap between engineering & management puts her in such a key role for us.</p>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="team-member">
-<img src="/img/team/3.jpg" class="img-responsive img-circle" alt="">
-<h4>Prasanna Patil</h4>
-<p class="text-muted">Director of U.S. Ops</p>
-<p class="text-muted justifiedTxt">Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.</p>
-</div>
-</div>
-<div class="col-sm-6">
+
+<h4>
 <div class="team-member">
 <img src="/img/team/4.jpg" class="img-responsive img-circle" alt="">
 <h4>Dave Arora</h4>
 <p class="text-muted">Director of Business Development</p>
-<p class="text-muted justifiedTxt">Dave Arora is MAISA’s Corporate Director of Business Development Officer. He is responsible for MAISA’s global corporate growth initiatives including strategy, mergers, acquisitions, strategic ventures and alliances. Dave is an Entrepreneur, Creator and Coach in essence. Professionally, he has a rich 25 years of business experience from North America and Asia in different roles including Business Development, Regional Marketing and General Management to integrating new talent and technology to offer scalable, secured & easily deployable solutions for Cloud Computing, Big Data Initiative, Web & Mobile Applications Development and solve the most challenging Data Storage & Processing requirements. Prior to joining MAISA, Dave was helping Veteran Owned Small Businesses on US east coast to win IT Hardware, Software and Services requirements of US Department of Defense via Federal Contracting Systems vehicle. <br> Dave received his Master’s degree in Business Administration specialization in Information Systems from India.</p>
+<p class="text-muted justifiedTxt">Dave Arora is MAISA’s Corporate Director of Business Development Officer. He is responsible for MAISA’s global corporate growth initiatives including strategy, mergers, acquisitions, strategic ventures and alliances. Dave is an Entrepreneur, Creator and Coach in essence. Professionally, he has a rich 25 years of business experience from North America and Asia in different roles including Business Development, Regional Marketing and General Management to integrating new talent and technology to offer scalable, secured &amp; easily deployable solutions for Cloud Computing, Big Data Initiative, Web &amp; Mobile Applications Development and solve the most challenging Data Storage &amp; Processing requirements. Prior to joining MAISA, Dave was helping Veteran Owned Small Businesses on US east coast to win IT Hardware, Software and Services requirements of US Department of Defense via Federal Contracting Systems vehicle. <br> Dave received his Master’s degree in Business Administration specialization in Information Systems from India.</p>
+</div>
+</h4></div>
 </div>
 </div>
-</div>
-</div>
-</section></div>
+</div></section></div>
 <section id="contact">
 <div class="container contact_form_backgroung_img">
 <div class="row">
@@ -734,8 +680,8 @@ let's grow your business together!
 <button type="submit" class="btn btn-xl">Send Message</button>
 </div>
 </div>
-<input type="hidden" name="_subject" value="Tej Loan: New form submited on website"/>
-<input type="hidden" name="_next" value="/contact"/>
+<input type="hidden" name="_subject" value="Tej Loan: New form submited on website">
+<input type="hidden" name="_next" value="/contact">
 </form>
 </div>
 </div>
@@ -750,28 +696,15 @@ let's grow your business together!
 <p class="contact_address"> <b>Head Quarters: </b></p>
 Delhi NCR <br>
 Tel:
-<a class="text-muted" href="tel:+914040177227">+91-9811077595</a>
+<a class="text-muted" href="tel:+919811077595">+91-9811077595</a>
+Email:
+<a class="text-muted" href="email:info@tejloan.com">info@tejloan.com</a>
 </div>
 </div>
 <div class="col-sm-4 text-muted">
 <div class="justifiedTxt">
 <p class="contact_address">&nbsp;</p>
 </div>
-</div>
-<div class="col-sm-4 text-muted">
-<div class="justifiedTxt">
-<p class="contact_address"> <b> Contact </b></p>
-<i class="fa fa-envelope"></i>&nbsp;
-<a href="/cdn-cgi/l/email-protection#ccafa3a2b8adafb88ca1ada5bfadbfa3a0b9b8a5a3a2bfe2afa3a1" class="text-muted"> <span class="__cf_email__" data-cfemail="9dfef2f3e9fcfee9ddf0fcf4eefceef2f1e8e9f4f2f3eeb3fef2f0">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
-<br>
-<i class="fa fa-skype"></i> &nbsp;<a class="text-muted" href="skype:cbenjaram">cbenjaram</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script data-rocketsrc="/js/jquery.vticker.js" type="text/rocketscript"></script>
 <script type="text/rocketscript">
 $(function(){
     $('#news-container').vTicker({ 
@@ -804,10 +737,10 @@ $(function(){
 <div class="row">
 <div class="col-md-4">
 <table style="width: 280px;margin: 0 auto;">
-<tr>
+<tbody><tr>
 <td style="align:right">
 <table>
-<tr>
+<tbody><tr>
 <td><div class="iso_cert"> <a class="fancybox" href="/img/iso_cert.jpg"><img src="/img/1_isotxt.png" height="30" width="50" title="ISO Certified Company 9001:2008" alt="ISO Certified Company"></a> </div></td>
 <td><div id="facetweet">
 <div id="facebook">
@@ -816,12 +749,12 @@ $(function(){
 <div id="tweet"> <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.tejloan.com" data-text="WE DON'T JUST BUILD PRODUCTS, WE BUILD BUSINESSES" data-via="tejloan">Tweet</a> </div>
 </div></td>
 </tr>
-</table></td>
+</tbody></table></td>
 </tr>
-</table>
+</tbody></table>
 </div>
 <div class="col-md-4">
-<span class="copyright">&copy;2015 Tej Loan&#8482; Solutions All rights reserved.</span>
+<span class="copyright">©2015 Tej Loan™ Solutions All rights reserved.</span>
 </div>
 <div class="col-md-4">
 <ul class="list-inline social-buttons">
@@ -1665,5 +1598,6 @@ t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
-</body>
-</html>
+
+
+</div></div></div></div></body>
