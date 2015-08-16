@@ -1,3 +1,3 @@
 Hello World
-This is my New Page
-I am the Proffessional Loan Service Agent!
+This is my Home Page
+I am the Professional Loan Service Agent!
